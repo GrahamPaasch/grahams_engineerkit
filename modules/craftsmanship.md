@@ -25,7 +25,7 @@
    * DONE: [Japanese Medieval Za (guilds) `Article`](https://en.wikipedia.org/wiki/Za_%28guilds%29)
    * DONE: [Shokunin and Devotion `Article`](https://www.kyotojournal.org/culture-arts/shokunin-and-devotion/)
    * DONE: [Shokunin: How Striving for Perfection Can Help You Live a Better Life `Article`](https://medium.com/mind-cafe/shokunin-how-striving-for-perfection-can-help-you-live-a-better-life-88fc09394a09)
-   * NOT DONE: [Tanners, tailors and candlestick makers: a history of apprenticeships `Article`](https://www.theguardian.com/global/2020/feb/04/tanners-tailors-and-candlestick-makers-a-history-of-apprenticeships)
+   * DONE: [Tanners, tailors and candlestick makers: a history of apprenticeships `Article`](https://www.theguardian.com/global/2020/feb/04/tanners-tailors-and-candlestick-makers-a-history-of-apprenticeships)
    * NOT DONE: [The craft guilds overview `Article`](https://www.britannica.com/topic/history-of-work-organization-648000/The-craft-guilds)
    
    #### Exercises
