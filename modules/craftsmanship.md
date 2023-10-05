@@ -19,9 +19,9 @@
    * NOT DONE: Propose how craftsmanship might apply to modern society
 
    #### Resources
-   * NOT DONE: [European Medieval Guilds `Video`](https://www.youtube.com/watch?v=vnQlHeee9Dw&t=17s)
-   * NOT DONE: [Guild coat of arms `Image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
-   * NOT DONE: [Guild overview `Article`](https://en.wikipedia.org/wiki/Guild)
+   * DONE: [European Medieval Guilds `Video`](https://www.youtube.com/watch?v=vnQlHeee9Dw&t=17s)
+   * DONE: [Guild coat of arms `Image`](https://user-images.githubusercontent.com/894178/133146886-a3bb211d-bfa6-404e-89e6-68372db59a6b.png)
+   * DONE: [Guild overview `Article`](https://en.wikipedia.org/wiki/Guild)
    * NOT DONE: [Japanese Medieval Za (guilds) `Article`](https://en.wikipedia.org/wiki/Za_%28guilds%29)
    * NOT DONE: [Shokunin and Devotion `Article`](https://www.kyotojournal.org/culture-arts/shokunin-and-devotion/)
    * NOT DONE: [Shokunin: How Striving for Perfection Can Help You Live a Better Life `Article`](https://medium.com/mind-cafe/shokunin-how-striving-for-perfection-can-help-you-live-a-better-life-88fc09394a09)
