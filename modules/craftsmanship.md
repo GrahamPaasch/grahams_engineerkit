@@ -14,9 +14,9 @@
    NOT DONE: With this topic, you'll learn about how craftsmanship has been applied across different trades, cultures, and periods in human history.
 
    #### Learning Outcomes
-   * NOT DONE: Summarize the history of craftsmanship
-   * NOT DONE: Critique ancient craftsmanship patterns and describe some of their benefits and drawbacks
-   * NOT DONE: Propose how craftsmanship might apply to modern society
+   * DONE: Summarize the history of craftsmanship
+   * DONE: Critique ancient craftsmanship patterns and describe some of their benefits and drawbacks
+   * DONE: Propose how craftsmanship might apply to modern society
 
    #### Resources
    * DONE: [European Medieval Guilds `Video`](https://www.youtube.com/watch?v=vnQlHeee9Dw&t=17s)
