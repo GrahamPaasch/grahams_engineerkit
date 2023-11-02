@@ -14,26 +14,26 @@
    With this topic, you'll learn about cloud computing and the wide range of services an application can use with this topic.
    
    #### Learning Outcomes
-   * Describe Infrastructure as a Service (IaaS)
-   * Describe Platform as a Service (PaaS)
-   * Describe Software as a Service (SaaS)
-   * List some typical cloud providers
-   * List some commonly used services from cloud providers
-   * Compare using cloud computing with on-premise computing
+   * NOT DONE: Describe Infrastructure as a Service (IaaS)
+   * NOT DONE: Describe Platform as a Service (PaaS)
+   * NOT DONE: Describe Software as a Service (SaaS)
+   * NOT DONE: List some typical cloud providers
+   * NOT DONE: List some commonly used services from cloud providers
+   * NOT DONE: Compare using cloud computing with on-premise computing
 
    #### Resources
-   * [A Cloud Guru `Resource`](https://acloudguru.com/)
-   * [AWS `Tool`](https://aws.amazon.com/)
-   * [Azure `Tool`](https://azure.microsoft.com/en-us/)
-   * [DigitalOcean `Tool`](https://www.digitalocean.com/)
-   * [Google Cloud Platform `Tool`](https://cloud.google.com/)
-   * [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
-   * [Kubernetes starter kit `Tutorial`](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
-   * [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
-   * [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
+   * NOT DONE: [A Cloud Guru `Resource`](https://acloudguru.com/)
+   * NOT DONE: [AWS `Tool`](https://aws.amazon.com/)
+   * NOT DONE: [Azure `Tool`](https://azure.microsoft.com/en-us/)
+   * NOT DONE: [DigitalOcean `Tool`](https://www.digitalocean.com/)
+   * NOT DONE: [Google Cloud Platform `Tool`](https://cloud.google.com/)
+   * NOT DONE: [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
+   * NOT DONE: [Kubernetes starter kit `Tutorial`](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
+   * NOT DONE: [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
+   * NOT DONE: [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
 
    #### Exercises
-   * [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
+   * NOT DONE: [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
 
 ----
 
