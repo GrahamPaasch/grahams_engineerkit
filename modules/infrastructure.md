@@ -27,13 +27,86 @@
    * NOT DONE: [Azure `Tool`](https://azure.microsoft.com/en-us/)
    * NOT DONE: [DigitalOcean `Tool`](https://www.digitalocean.com/)
    * NOT DONE: [Google Cloud Platform `Tool`](https://cloud.google.com/)
-   * NOT DONE: [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
+   * DONE: [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
    * NOT DONE: [Kubernetes starter kit `Tutorial`](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
    * NOT DONE: [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
    * NOT DONE: [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
 
    #### Exercises
    * NOT DONE: [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
+   
+   ### Completion Notes
+   * **A Cloud Guru:** 
+   * **AWS:** 
+   * **Azure:** 
+   * **DigitalOcean:** 
+   * **Google Cloud Platform:** 
+   * **Kubernetes Videos/Tutorials:** 
+
+Video Summary: Top 50+ AWS Services Explained in 10 Minutes
+In this video, the presenter provides an overview of more than 50 Amazon Web Services (AWS) products and services, highlighting key features and use cases. AWS, launched in 2006 with just three products, has since expanded to offer a vast array of services catering to the needs of developers worldwide. The video takes you on a journey through various "aisles" of AWS services, summarizing their functionalities and applications.
+
+Introduction
+AWS was launched in 2006 with only three products: storage buckets, compute instances, and a messaging queue.
+Today, AWS offers over 200 services, and many of them seem to overlap in functionality.
+The video aims to provide an understanding of over 50 different AWS products.
+
+Robotics and IoT
+RoboMaker: Used for simulating and testing robots at scale.
+IoT Core: Collects data from IoT devices, updates their software, and manages them remotely.
+Ground Station: Connects data from satellites orbiting Earth through a global network of antennas.
+
+Computing Services
+Elastic Compute Cloud (EC2): Allows you to create virtual computers in the cloud with customizable specifications.
+Elastic Load Balancing: Distributes traffic to multiple EC2 instances automatically.
+CloudWatch: Collects logs and metrics from EC2 instances.
+Auto Scaling: Creates new instances based on defined policies.
+Elastic Beanstalk: Simplifies the deployment of web applications.
+Lightsail: Offers an even simpler option for deploying websites.
+Lambda: Introduces serverless computing, allowing you to run code in response to events.
+Outposts: Enables running AWS APIs on your own infrastructure.
+Snow Devices: Mini data centers that work in hostile environments.
+
+Containerization
+Elastic Container Registry (ECR): Stores and manages Docker container images.
+Elastic Container Service (ECS): Allocates virtual machines for running containers.
+EKS: Manages Kubernetes clusters.
+Fargate: Allows containers to behave like serverless functions.
+App Runner: A new 2021 product for easy container deployment.
+
+Storage Services
+Simple Storage Service (S3): The first AWS product, for storing files and objects.
+Glacier: Archives files with higher latency but lower cost.
+Elastic Block Storage (EBS): Ideal for applications with data processing needs.
+Elastic File System (EFS): Provides fully managed file storage.
+Database Options: A wide range of database products including SimpleDB, DynamoDB, DocumentDB, RDS, Aurora, Neptune, TimeStream, and Quantum Ledger Database (QLDB).
+
+Analytics
+Redshift: A data warehouse for structured data.
+Lake Formation: Creates data lakes for unstructured data.
+Kinesis: Captures real-time data streams.
+Elastic MapReduce (EMR): A framework for processing massive datasets.
+Glue: A serverless tool for extracting, transforming, and loading data.
+
+Machine Learning
+SageMaker: Facilitates machine learning model development and deployment.
+Data Exchange: Allows purchase and subscription to third-party data.
+Recognition: Recognizes objects and images.
+Lex: Powers conversational bots.
+DeepRacer: An actual race car for machine learning enthusiasts.
+
+Essential Tools
+Identity and Access Management (IAM): Provides access control.
+Cognito: Manages user authentication and sessions.
+Simple Notification Service (SNS): Sends push notifications.
+Simple Email Service (SES): Sends emails.
+CloudFormation: Creates templates for provisioning services.
+Amplify: Provides SDKs for connecting to AWS infrastructure.
+Cost Management: AWS Cost Explorer and Budgets for cost monitoring.
+
+The video offers a comprehensive overview of AWS services, making it easier for developers to choose the right services for their specific needs.
+
+   * **Virtual Machine Provisioning Exercise:**
 
 ----
 
