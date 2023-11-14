@@ -29,7 +29,7 @@
    * NOT DONE: [Google Cloud Platform `Tool`](https://cloud.google.com/)
    * DONE: [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
    * NOT DONE: [Kubernetes starter kit `Tutorial`](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
-   * NOT DONE: [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
+   * DONE: [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
    * NOT DONE: [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
 
    #### Exercises
