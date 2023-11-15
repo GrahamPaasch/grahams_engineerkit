@@ -34,6 +34,7 @@
 
    #### Exercises
    * NOT DONE: [Virtual Machine Provisioning](../exercises/infrastructure/virtual-machine-provisioning.md)
+   * MentorHub Project: Get connected to agile institute instance on AWS and provision an instance of EC2. Set it up, play around, understand, SHUTDOWN.
    
    ### Completion Notes
    * **A Cloud Guru:** 
@@ -127,6 +128,7 @@ The video offers a comprehensive overview of AWS services, making it easier for 
 
    #### Exercises
    * [Terraform the Cloud](../exercises/infrastructure/terraform-the-cloud.md)
+   * MentorHub Project: Use terraform to provision the infrastructure to run MentorHub containers. Provision and configure ECS and EC2.
 
 ----
 
