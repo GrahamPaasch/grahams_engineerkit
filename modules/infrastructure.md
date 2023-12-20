@@ -22,13 +22,13 @@
    * NOT DONE: Compare using cloud computing with on-premise computing
 
    #### Resources
-   * DONE: [A Cloud Guru `Resource`](https://acloudguru.com/)
+   * (NOT FREE) DONE: [A Cloud Guru `Resource`](https://acloudguru.com/)
    * DONE: [AWS `Tool`](https://aws.amazon.com/)
    * DONE: [Azure `Tool`](https://azure.microsoft.com/en-us/)
    * DONE: [DigitalOcean `Tool`](https://www.digitalocean.com/)
    * DONE: [Google Cloud Platform `Tool`](https://cloud.google.com/)
    * DONE: [Kubernetes Explained in 100 Seconds `Video`](https://www.youtube.com/watch?v=PziYflu8cB8)
-   * NOT DONE: [Kubernetes starter kit `Tutorial`](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
+   * (NOT FREE) NOT DONE: [Kubernetes starter kit `Tutorial`](https://github.com/digitalocean/Kubernetes-Starter-Kit-Developers)
    * DONE: [Top 50+ AWS Services Explained in 10 Minutes `Video`](https://www.youtube.com/watch?v=JIbIYCM48to)
    * DONE: [What is Kubernetes? `Video Series`](https://www.youtube.com/watch?v=cC46cg5FFAM&list=PLIivdWyY5sqLmnGdKSdQIXq2sd_1bWSnx)
 
